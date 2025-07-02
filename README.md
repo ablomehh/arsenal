@@ -13,5 +13,6 @@ This project uses [roblox-ts](https://roblox-ts.com/) to write code in TypeScrip
 5. Use **"pnpm clear"** if you're having bundling errors.
 
 ## Note
+
 Please use this project as a learning resource rather than simply copying and pasting the code. 
 If you have questions or need guidance, feel free to reach out to me on Discord at "Glenacus"
