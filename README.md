@@ -14,5 +14,7 @@ This project uses [roblox-ts](https://roblox-ts.com/) to write code in TypeScrip
 
 ## Note
 
-Please use this project as a learning resource rather than simply copying and pasting the code. 
+Please use this project as a learning resource rather than simply copying and pasting the code.
 If you have questions or need guidance, feel free to reach out to me on Discord at "Glenacus"
+
+If you're having problems with **"rojo"**, install [rokit](https://github.com/rojo-rbx/rokit) and run **"rokit init"**, then **"rokit add rojo"**. This should resolve any issues you encounter.
